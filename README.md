@@ -1,8 +1,8 @@
 Ivan Paniagua Maldonado
 
-Práctica Factorial Ez
+Práctica DOMVERSO
 
-https://github.com/DomnhallIvan/FACTS.github.io
+https://github.com/DomnhallIvan/DOMverso.github.io
 
-https://domnhallivan.github.io/FACTS.github.io/
+https://domnhallivan.github.io/DOMverso.github.io/
 
